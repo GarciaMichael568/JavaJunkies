@@ -11348,7 +11348,7 @@ hr.divider-light {
   color: #212121;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #baa85c !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -11379,13 +11379,13 @@ hr.divider-light {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f4623a;
+    color: #baa85c;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #baa85c;
   }
 }
 
