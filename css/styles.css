@@ -3056,14 +3056,14 @@ textarea.form-control-lg {
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
-  background-color: #70587c;
-  border-color: #70587c;
+  background-color: #95806c;
+  border-color: #95806c;
 }
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #95806c;
+  border-color: #95806c;
 }
 .btn-secondary:hover {
   color: #fff;
